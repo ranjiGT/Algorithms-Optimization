@@ -1,1 +1,1 @@
-# Algorithms-Optimization
+# Genetic Algorithms & Optimization
