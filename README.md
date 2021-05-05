@@ -1,4 +1,4 @@
-# `Genetic Algorithms & Optimization`
+# `Genetic Algorithms & Optimization` :whale2:
 
 - `Sheet 1` - `Methurisitc Optimization`, `Pareto Dominance`, `Pareto-Dominance Concepts`, `Pareto Dominance in Higher Dimensions`, `Distance Minimization Problem`
 - `Sheet 2` - `Apriori Methods`, `Apriori Methods in Higher Dimensions`, `Cone Domination`, `epsilon-Domination`
